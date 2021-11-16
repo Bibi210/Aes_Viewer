@@ -1,3 +1,5 @@
+SHELL = /bin/sh
+#definition des commandes utilisees
 ifeq ($(shell uname -s), Darwin)
 GL_LDFLAGS = -framework OpenGL -framework GLUT -framework Cocoa
 else
