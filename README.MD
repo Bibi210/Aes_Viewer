@@ -8,6 +8,8 @@ Aes est un algorithme de chiffrement symetrique par blocs de 128 bytes
 ## Install
 - `git clone https://github.com/Bibi210/Aes_Viewer.git`
 
+- `cd Aes_Viewer`
+
 - `make`
 
 - ``` ./Aes_img Images/blue_sky.jpeg ```
