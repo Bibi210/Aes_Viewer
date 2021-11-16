@@ -6,7 +6,7 @@ Implementation en c++ de l'algorithme de chiffrement [AES](https://fr.wikipedia.
 Aes est un algorithme de chiffrement symetrique par blocs de 128 bytes
 
 ## Install
-- `git clone https://code.up8.edu/BrahimaDibassi/brick-destroyer.git`
+- `git clone https://github.com/Bibi210/Aes_Viewer.git`
 
 - `make`
 
