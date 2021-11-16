@@ -2,9 +2,13 @@
 #include <unistd.h>
 #include <vector>
 
-
+#ifndef __APPLE__
+#include <GL/gl.h>
+#else
+/* pour mac */
 #define GL_SILENCE_DEPRECATION
 #include <GLUT/glut.h>
+#endif
 #include "Lib/aes.hpp"
 
 #define STB_IMAGE_IMPLEMENTATION
