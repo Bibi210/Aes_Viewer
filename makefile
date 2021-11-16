@@ -5,7 +5,7 @@ GL_LDFLAGS = -lGL -lglut -lGLU
 endif
 
 CXX = g++
-CXXFLAGS := -std=c++17 -g -finline-functions -funroll-loops  -mtune=native -flto -O3
+CXXFLAGS := -std=c++17 -finline-functions -funroll-loops  -mtune=native -flto -O3
 LDFLAGS = -lm $(GL_LDFLAGS)
 EXE := Aes_img
 
