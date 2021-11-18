@@ -3,7 +3,7 @@
 Implementation en c++ de l'algorithme de chiffrement [AES](https://fr.wikipedia.org/wiki/Advanced_Encryption_Standard)
 
 [AES](https://fr.wikipedia.org/wiki/Advanced_Encryption_Standard):
-Aes est un algorithme de chiffrement symetrique par blocs de 128 bytes
+est un algorithme de chiffrement symetrique par blocs de 128 bytes
 
 ## Install
 - `git clone https://github.com/Bibi210/Aes_Viewer.git`
