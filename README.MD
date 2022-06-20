@@ -26,7 +26,7 @@ Decrypt -> Dechiffrement de l'image
 
 ## Explications
 
-Ce Projet ce decoupe en deux module AES et Img_Viewer\
+Ce Projet se decoupe en deux module AES et Img_Viewer\
 Le Code source de AES :
 ```Lib/aes.hpp et Lib/aes.cpp```\
 Le Code de l'image Viewer :
